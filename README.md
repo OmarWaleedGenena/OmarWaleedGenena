@@ -15,8 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/omar-waleed-genena/](https://www.linkedin.com/in/omar-waleed-genena/)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Artificial Neural Networks, 
-Computer Vision, Natural Language Processing (NLP), Python, Flutter, Algorithms, Dart**
+- 💬 Ask me about **Machine Learning, Deep Learning, Artificial Neural Networks, Computer Vision, Natural Language Processing (NLP), Python, Flutter, Algorithms, Dart**
 
 - 📫 How to reach me **Omarwaleed931@gmail.com**
 
