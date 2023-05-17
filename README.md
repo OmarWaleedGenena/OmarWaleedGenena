@@ -10,13 +10,14 @@
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "40px" height = "40px">  About me
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px height ="200px"/>
 
-- 🌱 Machine Learning Developer and former Mobile apps (Flutter) developer 💻
+- 🌱 Machine Learning Engineer | Mobile Apps Developer (Flutter) 💻
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmarWaleedGenena?tab=repositories](https://github.com/OmarWaleedGenena?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/omar-waleed-genena/](https://www.linkedin.com/in/omar-waleed-genena/)
 
-- 💬 Ask me about **Flutter, Algorithms, Dart, Python, Java, C++,C#**
+- 💬 Ask me about **Machine Learning, Deep Learning, Artificial Neural Networks, 
+Computer Vision, Natural Language Processing (NLP), Python, Flutter, Algorithms, Dart**
 
 - 📫 How to reach me **Omarwaleed931@gmail.com**
 
